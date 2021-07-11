@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Viraj
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning MERN Stack
-- 📫 How to reach me : https://virajdere.netlify.app/
+- 📫 How to reach me : https://virajdere.herokuapp.com/
 
 
 [![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdere&count_private=true&show_icons=true&hide=issues,contribs,prs)](https://github.com/vdere/github-readme-stats)
