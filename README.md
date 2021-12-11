@@ -2,6 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me : https://vdere.vercel.app/
+- ![Visitor Count](https://profile-counter.glitch.me/{vdere}/count.svg)
 
 
 [![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdere&count_private=true&show_icons=true&hide=issues,contribs,prs)](https://github.com/vdere/github-readme-stats)
