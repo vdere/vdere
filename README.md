@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Viraj
-- 👀 I’m a Software Engineer
-- 🌱 I’m currently learning MERN Stack
-- 📫 How to reach me : https://vdere.vercel.app/
+
 - ![Visitor Count](https://profile-counter.glitch.me/{vdere}/count.svg)
 
 
