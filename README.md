@@ -2,7 +2,7 @@
 - ![Visitor Count](https://profile-counter.glitch.me/{vdere}/count.svg)
 
 <!---
-[![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdere&count_private=true&show_icons=true&hide=issues,contribs,prs)](https://github.com/vdere/github-readme-stats)
+[![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdere)](https://github.com/vdere/github-readme-stats)
 --->
 **Languages and Tools:**  
 
